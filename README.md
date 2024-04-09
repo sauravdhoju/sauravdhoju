@@ -25,3 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravdhoju&show_icons=true&locale=en" alt="sauravdhoju" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdhoju&" alt="sauravdhoju" /></p>
+
+<p align="center">
+  <img src="https://github.com/sauravdhoju/sauravdhoju/blob/output/snake.svg" alt="Snake Animation" />
+</p>
+
