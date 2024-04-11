@@ -29,5 +29,5 @@
 
 <h3 align="left">My Github Contribution:</h3>
 <p align="center">
-  <img src="https://github.com/SalonRaut7/SalonRaut7/blob/output/snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/sauravdhoju/sauravdhoju/blob/output/snake.svg" alt="Snake Animation" />
 </p>
