@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravdhoju" alt="sauravdhoju" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React+TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sauravdhoju](https://github.com/sauravdhoju)
 
