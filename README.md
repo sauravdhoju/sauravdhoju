@@ -27,7 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdhoju&" alt="sauravdhoju" /></p>
 
 
-<h3 align="left">My Github Contribution:</h3>
-<p align="center">
-  <img src="https://github.com/sauravdhoju/sauravdhoju/blob/output/snake.svg" alt="Snake Animation" />
-</p>
+
