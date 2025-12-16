@@ -1,29 +1,99 @@
 <h1 align="center">Hi 👋, I'm Saurav Dhoju</h1>
-<h3 align="center">A passionate Enthusiasts from Bhaktapur, Nepal</h3>
+<h3 align="center">A Passionate Frontend Developer from Bhaktapur, Nepal 🇳🇵</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sauravdhoju&label=Profile%20views&color=0e75b6&style=flat" alt="sauravdhoju" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravdhoju" alt="sauravdhoju" /></a> </p>
-
-- 🌱 I’m currently learning **React+TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sauravdhoju](https://github.com/sauravdhoju)
-
-- 📫 How to reach me **sauravdhoju12@gmail.com**
-
-- 👨‍💻 Hosted Portfolio at [sauravdhoju.com.np](sauravdhoju.com.np)
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/saurav.dhoju.0410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurav.dhoju.0410" height="30" width="40" /></a>
-<a href="https://instagram.com/sauravdhoju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauravdhoju" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saurav-dhoju-469523201/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sauravdhoju" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sauravdhoju&label=Profile%20views&color=0e75b6&style=flat" alt="sauravdhoju" />
+</p>
 
+<p align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sauravdhoju&theme=onedark&no-frame=true&row=1" />
+</p>
 
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+---
 
+### 👨‍💻 About Me
+- 🌱 Currently learning **React + TypeScript**
+- 🎨 Interested in **Frontend Development & UI/UX Design**
+- 💡 Passionate about building clean, responsive, and user-friendly web applications
+- 🎯 Goal: Become a **professional full-stack developer**
+- 🌍 Open to **internships & junior developer opportunities**
 
+---
 
+### 🔗 Links
+- 👨‍💻 **Portfolio:** [https://sauravdhoju.com.np](https://sauravdhoju.com.np)
+- 💻 **Projects:** [https://github.com/sauravdhoju](https://github.com/sauravdhoju)
+- 📫 **Email:** sauravdhoju12@gmail.com
+
+---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://fb.com/saurav.dhoju.0410" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sauravdhoju" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/saurav-dhoju-469523201/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🔹 **Personal Portfolio Website**  
+  Tech: HTML, CSS, JavaScript  
+  👉 [Live](https://sauravdhoju.com.np) | [Repo](https://github.com/sauravdhoju)
+
+- 🔹 **React Practice Projects**  
+  Tech: React, TypeScript  
+  👉 [Repo](https://github.com/sauravdhoju)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravdhoju&show_icons=true&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdhoju&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdhoju&layout=compact&theme=react" />
+</p>
+
+---
+
+### 🧠 Currently Focusing On
+- ⚛️ React + TypeScript
+- 🎨 Modern UI & Responsive Design
+- 🔧 Clean Code & GitHub best practices
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
