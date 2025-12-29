@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sauravdhoju&theme=onedark&no-frame=true&row=1" />
-</p>
 
 </p>
 
@@ -72,21 +69,6 @@
 - 🔹 **React Practice Projects**  
   Tech: React, TypeScript  
   👉 [Repo](https://github.com/sauravdhoju)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauravdhoju&show_icons=true&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdhoju&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdhoju&layout=compact&theme=react" />
-</p>
 
 ---
 
