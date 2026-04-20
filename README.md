@@ -23,7 +23,7 @@
 
 ### 🔗 Links
 - 👨‍💻 **Portfolio:** [https://sauravdhoju.com.np](https://sauravdhoju.com.np)
-- 💻 **Projects:** [https://github.com/sauravdhoju](https://github.com/sauravdhoju)
+- 💻 **Projects:** [https://sauravdhoju.com.np/#portfolio](https://sauravdhoju.com.np/#portfolio)
 - 📫 **Email:** sauravdhoju12@gmail.com
 
 ---
