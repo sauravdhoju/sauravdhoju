@@ -1,123 +1,171 @@
-<h1 align="center">Hi 👋, I'm Saurav Dhoju</h1>
+<div align="center">
 
-<h3 align="center">A Passionate Frontend Developer from Bhaktapur, Nepal 🇳🇵</h3>
+# Hi 👋, I'm Saurav Dhoju
 
-<h4 align="center">Frontend Developer | UI UX Designer</h4>
+### Frontend Developer • UI/UX Designer • React Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sauravdhoju&label=Profile%20views&color=0e75b6&style=flat" alt="sauravdhoju" />
+<p>
+Building modern, responsive and user-focused web experiences from Nepal 🇳🇵
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=sauravdhoju&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<h2 align="center">👨‍💻 About Me</h2>
+<br><br>
 
-<div align="center">
+<a href="https://sauravdhoju.com.np">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge" />
+</a>
 
-🌱 Currently learning **React + TypeScript**
+<a href="mailto:sauravdhoju12@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-🎨 Interested in **Frontend Development & UI/UX Design**
+<a href="https://www.linkedin.com/in/saurav-dhoju-469523201/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-💡 Passionate about building clean, responsive, and user-friendly web applications
+<a href="https://instagram.com/sauravdhoju">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-🎯 Goal: Become a **professional full-stack developer**
-
-🌍 Open to **internships & junior developer opportunities**
-
-</div>
-
----
-
-<h2 align="center">🔗 Links</h2>
-
-<div align="center">
-
-👨‍💻 **Portfolio:**  
-https://sauravdhoju.com.np
-
-💻 **Projects:**  
-https://sauravdhoju.com.np/#portfolio
-
-📫 **Email:**  
-sauravdhoju12@gmail.com
+<a href="https://fb.com/saurav.dhoju.0410">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<h2 align="center">🤝 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://fb.com/saurav.dhoju.0410" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/sauravdhoju" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/saurav-dhoju-469523201/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
+# 👨‍💻 About Me
 
 <div align="center">
 
-### 🔹 Personal Portfolio Website
+💻 Passionate about creating beautiful, responsive web applications
 
-**Tech:** HTML, CSS, JavaScript
+⚛️ Currently learning **React**, **TypeScript**, and modern frontend architecture
 
-🌐 https://sauravdhoju.com.np
+🎨 Love turning UI/UX designs into interactive user experiences
 
-📂 https://github.com/sauravdhoju
+🚀 Working toward becoming a **Full Stack Developer**
 
-<br>
+🌱 Always learning new technologies and best practices
 
-### 🔹 React Practice Projects
-
-**Tech:** React, TypeScript
-
-📂 https://github.com/sauravdhoju
+🤝 Open to internships, freelance work, and junior developer opportunities
 
 </div>
 
 ---
 
-<h2 align="center">🧠 Currently Focusing On</h2>
+# 🚀 Tech Stack
 
 <div align="center">
 
-⚛️ React + TypeScript
+### Languages
 
-🎨 Modern UI & Responsive Design
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" />
 
-🔧 Clean Code & GitHub Best Practices
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode,photoshop" />
 
 </div>
 
 ---
 
-<h3 align="center">⭐️ Feel free to explore my repositories and connect with me!</h3>
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌐 **Portfolio Website** | Personal portfolio showcasing my work and skills | HTML • CSS • JavaScript |
+| ⚛️ **React Projects** | Learning projects built using React & TypeScript | React • TypeScript |
+| 🎨 **UI/UX Designs** | Modern interfaces designed in Figma | Figma |
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+React 19
+
+TypeScript
+
+Node.js
+
+Express
+
+Modern UI/UX
+
+Performance Optimization
+
+SEO
+
+</div>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sauravdhoju&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdhoju&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdhoju&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sauravdhoju&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 🔥 Current Focus
+
+<div align="center">
+
+🎯 Building production-ready React applications
+
+⚡ Learning backend development with Node.js
+
+🎨 Creating modern UI/UX experiences
+
+🚀 Contributing to Open Source
+
+📚 Improving problem-solving skills
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Great user experiences are built through clean code, thoughtful design, and continuous learning."*
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
