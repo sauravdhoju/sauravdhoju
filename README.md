@@ -1,50 +1,70 @@
 <h1 align="center">Hi 👋, I'm Saurav Dhoju</h1>
+
 <h3 align="center">A Passionate Frontend Developer from Bhaktapur, Nepal 🇳🇵</h3>
 
 <h4 align="center">Frontend Developer | UI UX Designer</h4>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sauravdhoju&label=Profile%20views&color=0e75b6&style=flat" alt="sauravdhoju" />
 </p>
 
-<p align="center">
+---
 
-</p>
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+🌱 Currently learning **React + TypeScript**
+
+🎨 Interested in **Frontend Development & UI/UX Design**
+
+💡 Passionate about building clean, responsive, and user-friendly web applications
+
+🎯 Goal: Become a **professional full-stack developer**
+
+🌍 Open to **internships & junior developer opportunities**
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 Currently learning **React + TypeScript**
-- 🎨 Interested in **Frontend Development & UI/UX Design**
-- 💡 Passionate about building clean, responsive, and user-friendly web applications
-- 🎯 Goal: Become a **professional full-stack developer**
-- 🌍 Open to **internships & junior developer opportunities**
+<h2 align="center">🔗 Links</h2>
+
+<div align="center">
+
+👨‍💻 **Portfolio:**  
+https://sauravdhoju.com.np
+
+💻 **Projects:**  
+https://sauravdhoju.com.np/#portfolio
+
+📫 **Email:**  
+sauravdhoju12@gmail.com
+
+</div>
 
 ---
 
-### 🔗 Links
-- 👨‍💻 **Portfolio:** [https://sauravdhoju.com.np](https://sauravdhoju.com.np)
-- 💻 **Projects:** [https://sauravdhoju.com.np/#portfolio](https://sauravdhoju.com.np/#portfolio)
-- 📫 **Email:** sauravdhoju12@gmail.com
-
----
-
-### 🤝 Connect with Me
+<h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
   <a href="https://fb.com/saurav.dhoju.0410" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/sauravdhoju" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saurav-dhoju-469523201/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+<h2 align="center">🛠️ Languages & Tools</h2>
+
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
@@ -62,22 +82,42 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🔹 **Personal Portfolio Website**  
-  Tech: HTML, CSS, JavaScript  
-  👉 [Live](https://sauravdhoju.com.np) | [Repo](https://github.com/sauravdhoju)
+<h2 align="center">🚀 Featured Projects</h2>
 
-- 🔹 **React Practice Projects**  
-  Tech: React, TypeScript  
-  👉 [Repo](https://github.com/sauravdhoju)
+<div align="center">
+
+### 🔹 Personal Portfolio Website
+
+**Tech:** HTML, CSS, JavaScript
+
+🌐 https://sauravdhoju.com.np
+
+📂 https://github.com/sauravdhoju
+
+<br>
+
+### 🔹 React Practice Projects
+
+**Tech:** React, TypeScript
+
+📂 https://github.com/sauravdhoju
+
+</div>
 
 ---
 
-### 🧠 Currently Focusing On
-- ⚛️ React + TypeScript
-- 🎨 Modern UI & Responsive Design
-- 🔧 Clean Code & GitHub best practices
+<h2 align="center">🧠 Currently Focusing On</h2>
+
+<div align="center">
+
+⚛️ React + TypeScript
+
+🎨 Modern UI & Responsive Design
+
+🔧 Clean Code & GitHub Best Practices
+
+</div>
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me!*
+<h3 align="center">⭐️ Feel free to explore my repositories and connect with me!</h3>
